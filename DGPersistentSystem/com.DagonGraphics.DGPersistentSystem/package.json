@@ -1,0 +1,11 @@
+{
+  "name": "com.DagonGraphics.DGPersistentSystem",
+  "displayName": "Dagon Graphics Persistent System",
+  "version": "0.1.0",
+  "unity": "6.2",
+  "description": "Persistent system based on JSON and Scriptable Objects.",
+    "keywords": [
+    "Dagon Graphics"
+  ],
+  "dependencies": {},
+}
