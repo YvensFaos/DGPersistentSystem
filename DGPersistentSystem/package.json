@@ -1,5 +1,5 @@
 {
-  "name": "com.dagongraphics.dgpersistentsystem",
+  "name": "com.DagonGraphics.DGPersistentSystem",
   "version": "0.1.0",
   "displayName": "Dagon Graphics Persistent System",
   "description": "Persistent system based on JSON and Scriptable Objects.",
