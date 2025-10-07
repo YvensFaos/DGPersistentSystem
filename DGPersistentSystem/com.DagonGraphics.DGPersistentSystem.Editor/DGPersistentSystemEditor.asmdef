@@ -1,7 +1,7 @@
 {
     "name": "com.DagonGraphics.DGPersistentSystemEditor",
     "rootNamespace": "",
-    "references": [],
+    "references": ["GUID:4a2d6cd13670846b29ad9a2a770479f8"],
     "includePlatforms": [
         "Editor"
     ],

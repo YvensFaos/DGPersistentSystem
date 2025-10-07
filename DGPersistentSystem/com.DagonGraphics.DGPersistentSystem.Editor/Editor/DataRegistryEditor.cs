@@ -47,6 +47,7 @@ namespace DGPersistentSystem.Editor
             _scriptableObj = (ScriptableObject)EditorGUILayout.ObjectField("Debug SO Reference", _scriptableObj,
                 typeof(ScriptableObject), false);
             _jsonInputString = EditorGUILayout.TextArea(_jsonInputString, EditorStyles.textField);
+            
             if (GUILayout.Button("Try to Deserialize Test"))
             {
                 var result = PersistentObjectDeserializer.DeserializeObjectToJson(_jsonInputString);
