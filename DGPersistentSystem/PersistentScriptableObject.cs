@@ -30,8 +30,8 @@ namespace DGPersistentSystem
             {
                 AssetDatabase.SaveAssets();
             }
-#endif
         }
+#endif
 
         public int CompareTo(object obj)
         {
